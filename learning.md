@@ -53,6 +53,10 @@
 
 ### 开源库
 
+* Gson
+
+[你真的会用Gson吗?Gson使用指南](http://www.jianshu.com/p/e740196225a4)
+
 * 你最不想错过的 2017 早期 25 个 Android 开源库
 
 [link](https://juejin.im/post/59e5fc92f265da43283fee89)
