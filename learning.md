@@ -1,6 +1,6 @@
-#一些需要学习的内容
+# 一些需要学习的内容
 
-##Android
+## Android
 
 ### 框架
 
@@ -65,7 +65,7 @@
 
 ~~[android项目中values中ids.xml的作用](http://blog.csdn.net/jdsjlzx/article/details/42024447)~~
 
-##工具
+## 工具
 
 ### Gradle插件
 
