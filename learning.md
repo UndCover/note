@@ -57,6 +57,8 @@
 
 [你真的会用Gson吗?Gson使用指南](http://www.jianshu.com/p/e740196225a4)
 
+[搞定Gson泛型封装](http://www.jianshu.com/p/d62c2be60617)
+
 * 你最不想错过的 2017 早期 25 个 Android 开源库
 
 [link](https://juejin.im/post/59e5fc92f265da43283fee89)
