@@ -11,7 +11,7 @@
 `用于Activity的页面路由`
 `思路：网络下发跳转事件`
 
-[GITHUB](https://github.com/alibaba/ARouter)
+[github](https://github.com/alibaba/ARouter)
 
 [简单好用的Android页面路由框架](http://www.jianshu.com/p/7cb2cc9b726a?from=groupmessage)
 
@@ -35,7 +35,7 @@
 
 * RePlugin
 
-[GITHUB](https://github.com/Qihoo360/RePlugin)
+[github](https://github.com/Qihoo360/RePlugin)
 
 * DataBinding
 
@@ -49,7 +49,7 @@
 
 `Actiivty转场动画可以使用overridePendingTransition (int enterAnim, int exitAnim),但这种方式太老了，接下来介绍另一种方式ActivityOptions，和兼容类（V4）ActivityOptionsCompat`
 
-[CSDN](http://blog.csdn.net/ss1168805219/article/details/53445063)
+[csdn](http://blog.csdn.net/ss1168805219/article/details/53445063)
 
 ### 开源库
 
@@ -75,8 +75,8 @@
 
 `自动化打包信息`
 
-[CSDN](http://blog.csdn.net/sbsujjbcy/article/details/50782830)
+[csdn](http://blog.csdn.net/sbsujjbcy/article/details/50782830)
 
 * 通过Gradle的Transform配合ASM实战路由框架和统计方法耗时
 
-[CSDN](http://blog.csdn.net/neacy_zz/article/details/78546237?reload)
+[csdn](http://blog.csdn.net/neacy_zz/article/details/78546237?reload)
