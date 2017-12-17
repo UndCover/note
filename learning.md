@@ -73,6 +73,10 @@
 
 ~~[android项目中values中ids.xml的作用](http://blog.csdn.net/jdsjlzx/article/details/42024447)~~
 
+* Android一个TextView设置多种颜色的2种高效方法
+
+~~[csdn](http://blog.csdn.net/pengkv/article/details/42113225)~~
+
 ## 工具
 
 ### Gradle插件
