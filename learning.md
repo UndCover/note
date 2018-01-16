@@ -65,6 +65,10 @@
 
 ### 技巧
 
+* Autosizing
+
+[文字太多？控件太小？试试 TextView 的新特性 Autosizing 吧！](https://juejin.im/post/5a56f70cf265da3e5468fa59)
+
 * AlertDialog
 
 ~~[Android自定义AlertDialog样式](http://blog.csdn.net/true100/article/details/52638508)~~
