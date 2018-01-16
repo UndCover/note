@@ -72,6 +72,10 @@
 
 ### 技巧
 
+* 轮播图
+
+[用RecyclerView打造一个轮播图(进阶版)](https://juejin.im/post/5a13a28c51882512a860ee6a)
+
 * 状态栏
 
 [Android 状态栏关于开发的几件事](https://juejin.im/post/5a52023b6fb9a01c9c1ed937)
