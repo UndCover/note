@@ -43,6 +43,13 @@
 
 ~~[databinding中的ImageView与Glide结合使用](http://blog.csdn.net/zhuhai__yizhi/article/details/52922092)~~
 
+### 控件
+
+* ConstraintLayout
+
+[Android 约束布局（ConstraintLayout）详解](http://blog.csdn.net/airsaid/article/details/79052011)
+
+
 ### 动画
 
 * Android动画：转场动画(过度动画) ActivityOptionsCompat
@@ -64,6 +71,10 @@
 [link](https://juejin.im/post/59e5fc92f265da43283fee89)
 
 ### 技巧
+
+* 状态栏
+
+[Android 状态栏关于开发的几件事](https://juejin.im/post/5a52023b6fb9a01c9c1ed937)
 
 * Autosizing
 
