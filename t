@@ -1,10 +1,9 @@
 {
-	"spider": "http://39.99.175.187/cat/fan.jar",
+	"spider": "https://ghp.ci/https://raw.githubusercontent.com/UndCover/note/master/tjar",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
-
 	"sites": [
-		{"key":"豆豆","name":"豆瓣-0815","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-		{"key":"玩偶哥哥","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"cfe2d702ae2543f3ab8e2c1337c3b70d","from":"4k|auto|fhd","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+		{"key":"豆豆","name":"豆瓣-1216","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+		{"key":"玩偶哥哥","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"4d737ba3f76a48719c675b04fe6875de","from":"4k|auto|fhd","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 		{"key":"YGP","name":"叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 		{"key":"短剧","name":"上头┃短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
 		{"key":"酷看","name":"酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
@@ -51,12 +50,12 @@
 		{"key":"米搜","name":"曆米搜┃夸父","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto|fhd"}},
 		{"key":"盘他","name":"盘他┃U夸","type":3,"api":"csp_PanTa","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto|fhd"}},
 		{"key":"夸搜","name":"夸搜┃夸父","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto|fhd"}},
-		{"key":"YiSo","name":"易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"cfe2d702ae2543f3ab8e2c1337c3b70d","from":"4k|auto|fhd"}},
-		{"key":"PanSou","name":"力盘搜┃阿狸","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"cfe2d702ae2543f3ab8e2c1337c3b70d","from":"4k|auto|fhd"}},
-		{"key":"PanSearch","name":"盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"cfe2d702ae2543f3ab8e2c1337c3b70d","from":"4k|auto|fhd"}},
-		{"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"cfe2d702ae2543f3ab8e2c1337c3b70d","from":"4k|auto|fhd"}},
+		{"key":"YiSo","name":"易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"4d737ba3f76a48719c675b04fe6875de","from":"4k|auto|fhd"}},
+		{"key":"PanSou","name":"力盘搜┃阿狸","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"4d737ba3f76a48719c675b04fe6875de","from":"4k|auto|fhd"}},
+		{"key":"PanSearch","name":"盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"4d737ba3f76a48719c675b04fe6875de","from":"4k|auto|fhd"}},
+		{"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"4d737ba3f76a48719c675b04fe6875de","from":"4k|auto|fhd"}},
 		
-		{"key":"Bili","name":"哔哔┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"http://39.99.175.187/cat/ext/bili.js"},
+		{"key":"Bili","name":"哔哔┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://ghp.ci/https://raw.githubusercontent.com/UndCover/note/master/ext/bili.js"},
 		{"key":"fan","name":"导航 www.饭太硬.com","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0},
 		{"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0}
 	],
@@ -99,7 +98,7 @@
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzM5Ljk5LjE3NS4xODcvY2F0L2xpdmUuanM="]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHAuY2kvaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1VuZENvdmVyL25vdGUvbWFzdGVyL2xpdmUvbGl2ZS5qc29u"]
 		}]
 	}]
 }
